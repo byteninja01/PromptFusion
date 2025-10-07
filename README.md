@@ -92,4 +92,3 @@ This project draws inspiration from ongoing research in **prompt optimization, r
 
 ---
 
-Would you like me to write the **short version** too (for your GitHub project bio or pinned repo section, ~3 lines summary)?
